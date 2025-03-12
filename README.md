@@ -1,3 +1,7 @@
+# CodeNow Redis Commander
+
+once this issue will be resolved, this CN fork wont be necessary https://github.com/joeferner/redis-commander/issues/447
+
 # Redis Commander
 
 Redis web management tool written in node.js
